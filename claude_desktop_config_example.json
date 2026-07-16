@@ -1,0 +1,10 @@
+﻿{
+  "mcpServers": {
+    "employee-knowledge-assistant": {
+      "command": "python",
+      "args": [
+        "C:/Users/Admin/Desktop/AI_Bootcamp/day1/mcp_employee_knowledge_assistant/server.py"
+      ]
+    }
+  }
+}
